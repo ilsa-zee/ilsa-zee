@@ -1,16 +1,44 @@
-## Hi there 👋
+# Ilsa Zeeshan
 
-<!--
-**ilsa-zee/ilsa-zee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BE Electrical Engineering (Computer Systems) | Digital IC Design & Verification Trainee
 
-Here are some ideas to get you started:
+Electrical Engineering (Computer Systems) graduate currently undergoing the PSEB Upskilling Program in IC Design and Verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+
+**BE Electrical Engineering (Computer Systems)**
+
+### Technical Skills
+
+- Verilog HDL
+- SystemVerilog
+- RTL Design
+- Physical Design
+- Digital IC Design & Verification
+- Functional Verification
+- Testbench Development
+- FPGA Implementation
+- ASIC Physical Design
+- QuestaSim
+- F4PGA
+
+### Projects
+
+- UART Design & Verification
+- Synchronous FIFO
+- Single-Port SRAM
+- VGA Controller
+- AXI Master
+- RTL-Based ALU
+- FPGA Digital Design Projects
+- AI-Based Food Recognition & Nutrition Estimation System
+
+### Current Focus
+
+Digital IC Design | RTL Design | Design Verification | SystemVerilog | FPGA | ASIC Design Flow | Physical Design 
+
+
+### Links
+
+- **Portfolio & CV:** [ilsa-zee.github.io](https://ilsa-zee.github.io/)
+- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/ilsa-zeeshan-ab0359395)
